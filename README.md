@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shadarimoon
-- 👀 I’m interested in changing careers
+- 👀 I’m interested in mobile and web development 
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
